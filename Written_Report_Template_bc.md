@@ -11,9 +11,9 @@ This analysis was performed at customer request.  Louise, our customer, is wonde
 
 You can see my screenshots in the folder attachment called "resources."
 
-<img src="Outcomes_vs_Goals.png">
-<img src="Theater_Outcomes_vs_Launch.png">
+![Outcomes_vs_Goals](/images/Outcomes_vs_Goals.png)
 
+![Theater_Outcomes_vs_Launch](/images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
