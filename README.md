@@ -9,13 +9,13 @@ This analysis was performed at customer request.  Louise, our customer, is wonde
 
 ## Analysis and Challenges
 
-![Outcomes_vs_Goals](/Images/Outcomes_vs_Goals.PNG)
+![Outcomes_vs_Goals](/Images/Outcomes_vs_Goals.png)
 Figure 1:  Outcomes versus Goals
 
-![Theater_Outcomes_vs_Launch](/Images/Theater_Outcomes_vs_Launch.PNG)
+![Theater_Outcomes_vs_Launch](/Images/Theater_Outcomes_vs_Launch.png)
 Figure 2: Theater Outcomes versus Launch
 
-### Analysis of Outcomes Based on Launch DateS
+### Analysis of Outcomes Based on Launch Dates
 
 Based on the graph, it is safe to assume that the holidays/end of the fiscal year seem to have an impact on successful campaigns.  This could be due to people spending more on friends and family.
 
