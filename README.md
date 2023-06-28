@@ -9,10 +9,10 @@ This analysis was performed at customer request.  Louise, our customer, is wonde
 
 ## Analysis and Challenges
 
-![Outcomes_vs_Goals](/Images/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Images/Outcomes_vs_Goals.PNG)
 Figure 1:  Outcomes versus Goals
 
-![Theater_Outcomes_vs_Launch](/Images/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](/Images/Theater_Outcomes_vs_Launch.PNG)
 Figure 2: Theater Outcomes versus Launch
 
 ### Analysis of Outcomes Based on Launch DateS
